@@ -1,0 +1,1 @@
+# -While-Loop-The-Sum-Of-Consecutive-Integer-Numbers-
